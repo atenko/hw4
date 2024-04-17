@@ -3,3 +3,8 @@ Click [here](https://raw.githubusercontent.com/atenko/hw4/main/transplants.txt) 
 |-------------------|-----------------------------------|-------|------------|--------------|
 | 1                 | NHANES 1999-2000 Public Release   | 9665  |            |              |
 | .                 | Missing                           | 0     | 9965       |              |
+
+| Code | Description| Count |
+|-|-|-|
+| 1 | NHANES 1999-2000 | 9665 |
+| . | Missing | 0 |
